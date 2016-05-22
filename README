@@ -1,0 +1,19 @@
+Kyle Matsumoto
+kytmatsu
+cmps101
+Dr. Allen Van Gelder
+pa01
+
+
+
+To run this you need to first make the file.
+After that just type in graph01 *file name*.
+If you want to use stdin type in graph01 -. 
+This activates the stdin stream.
+To exit and print you need to Ctrl + D.
+I have provided 4 tests. 
+gr02 is the test that the professor gave us.
+test1 shows functionality if more than 1 per number is added.
+test2 showcases a case where you tried to input a number that was larger than the original size the list was given.
+test3 showcases a bad edge with 3 numbers. you can change this one to showcase it for 1 number as well. They both work.
+
